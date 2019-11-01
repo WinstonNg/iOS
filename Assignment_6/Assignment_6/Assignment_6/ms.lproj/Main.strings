@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Spockify Music Player"; ObjectID = "2LE-K3-6Sx"; */
+"2LE-K3-6Sx.text" = "Pemain Muzik Spockify";
+
+/* Class = "UIButton"; normalTitle = "Save Preferences"; ObjectID = "4Ud-Et-rHU"; */
+"4Ud-Et-rHU.normalTitle" = "Simpan Keutamaan";
+
+/* Class = "UIButton"; normalTitle = "Stop"; ObjectID = "A6P-6l-UML"; */
+"A6P-6l-UML.normalTitle" = "Berhenti";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "N8D-j8-O8W"; */
+"N8D-j8-O8W.normalTitle" = "Main";
+
+/* Class = "UILabel"; text = "Volume"; ObjectID = "owq-Vz-aYO"; */
+"owq-Vz-aYO.text" = "Kelantaran";
+
+/* Class = "UILabel"; text = "Now Playing: "; ObjectID = "wvd-FG-CsJ"; */
+"wvd-FG-CsJ.text" = "Muzik Dimain: ";
